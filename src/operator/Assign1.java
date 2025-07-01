@@ -1,4 +1,4 @@
-package operater;
+package operator;
 
 public class Assign1 {
 

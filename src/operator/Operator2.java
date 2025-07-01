@@ -1,6 +1,6 @@
-package operater;
+package operator;
 
-public class Operater2 {
+public class Operator2 {
 
     public static void main(String[] args) {
 
